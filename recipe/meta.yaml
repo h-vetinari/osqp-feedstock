@@ -20,7 +20,7 @@ source:
     folder: osqp_sources
 
 build:
-  number: 1
+  number: 2
   script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
